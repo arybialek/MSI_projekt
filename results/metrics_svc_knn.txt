@@ -1,0 +1,91 @@
+Fold 0.
+Accuracy of kNN classifier is 0.7247 
+Fscore of kNN classifier is 0.73084 
+Precision: 0.7148956356736242
+Recall: 0.7475198412698413
+Accuracy of SVC classifier is 0.61806 
+Fscore of SVC classifier is 0.68023 
+Precision: 0.585
+Recall: 0.8125
+Fold 1.
+Accuracy of kNN classifier is 0.72197 
+Fscore of kNN classifier is 0.72094 
+Precision: 0.7236381809095452
+Recall: 0.7182539682539683
+Accuracy of SVC classifier is 0.59177 
+Fscore of SVC classifier is 0.6568 
+Precision: 0.5665467625899281
+Recall: 0.78125
+Fold 2.
+Accuracy of kNN classifier is 0.71875 
+Fscore of kNN classifier is 0.71436 
+Precision: 0.7256908904810645
+Recall: 0.7033730158730159
+Accuracy of SVC classifier is 0.59945 
+Fscore of SVC classifier is 0.66694 
+Precision: 0.570773032121426
+Recall: 0.8020833333333334
+Fold 3.
+Accuracy of kNN classifier is 0.71726 
+Fscore of kNN classifier is 0.715 
+Precision: 0.7207661290322581
+Recall: 0.7093253968253969
+Accuracy of SVC classifier is 0.61384 
+Fscore of SVC classifier is 0.67159 
+Precision: 0.5842201834862385
+Recall: 0.7896825396825397
+Fold 4.
+Accuracy of kNN classifier is 0.71602 
+Fscore of kNN classifier is 0.70798 
+Precision: 0.7286089238845145
+Recall: 0.6884920634920635
+Accuracy of SVC classifier is 0.59003 
+Fscore of SVC classifier is 0.66368 
+Precision: 0.5626077957916523
+Recall: 0.8090277777777778
+Fold 5.
+Accuracy of kNN classifier is 0.2877 
+Fscore of kNN classifier is 0.31521 
+Precision: 0.3034894398530762
+Recall: 0.32787698412698413
+Accuracy of SVC classifier is 0.42932 
+Fscore of SVC classifier is 0.54962 
+Precision: 0.4539282250242483
+Recall: 0.6964285714285714
+Fold 6.
+Accuracy of kNN classifier is 0.72545 
+Fscore of kNN classifier is 0.71854 
+Precision: 0.7370892018779343
+Recall: 0.7008928571428571
+Accuracy of SVC classifier is 0.61186 
+Fscore of SVC classifier is 0.66467 
+Precision: 0.5850622406639004
+Recall: 0.7693452380952381
+Fold 7.
+Accuracy of kNN classifier is 0.73785 
+Fscore of kNN classifier is 0.73436 
+Precision: 0.7442689760570556
+Recall: 0.7247023809523809
+Accuracy of SVC classifier is 0.57192 
+Fscore of SVC classifier is 0.43632 
+Precision: 0.638623326959847
+Recall: 0.33134920634920634
+Fold 8.
+Accuracy of kNN classifier is 0.72222 
+Fscore of kNN classifier is 0.7193 
+Precision: 0.7269503546099291
+Recall: 0.7118055555555556
+Accuracy of SVC classifier is 0.61384 
+Fscore of SVC classifier is 0.53341 
+Precision: 0.6737320211960636
+Recall: 0.44146825396825395
+Fold 9.
+Accuracy of kNN classifier is 0.73165 
+Fscore of kNN classifier is 0.72056 
+Precision: 0.7516163793103449
+Recall: 0.6919642857142857
+Accuracy of SVC classifier is 0.61434 
+Fscore of SVC classifier is 0.52021 
+Precision: 0.6881632653061225
+Recall: 0.4181547619047619
+
